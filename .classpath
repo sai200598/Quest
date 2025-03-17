@@ -36,5 +36,15 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhitha/.m2/repository/org/seleniumhq/webdriver/webdriver-common/0.9.7376/webdriver-common-0.9.7376.jar" sourcepath="C:/Users/Nikhitha/.m2/repository/org/seleniumhq/webdriver/webdriver-common/0.9.7376/webdriver-common-0.9.7376-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.webdriver"/>
+			<attribute name="maven.artifactId" value="webdriver-common"/>
+			<attribute name="maven.version" value="0.9.7376"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

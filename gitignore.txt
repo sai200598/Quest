@@ -2,3 +2,6 @@
 .project
 .settings/
 target/
+ src/main/java/Base/
+ target/classes/Base/
+  testng.xml
